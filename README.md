@@ -107,33 +107,31 @@ As expected, the Student-t specification produces a larger VaR because it captur
 
 ## AAPL Price Series
 
-![Price](aapl_price_series.png)
+![Price](./aapl_price_series.png)
 
 ---
 
 ## Daily Log Returns
 
-![Returns](aapl_log_returns.png)
+![Returns](./aapl_log_returns.png)
 
 ---
 
 ## Conditional Volatility (Normal)
 
-![Normal](conditional_volatility_normal.png)
+![Normal](./conditional_volatility_normal.png)
 
 ---
 
 ## Conditional Volatility (Student-t)
 
-![Student](conditional_volatility_student_t.png)
+![Student](./conditional_volatility_student_t.png)
 
 ---
 
 ## 10-Day Value-at-Risk Comparison
 
-![VaR](var_comparison.png)
-
----
+![VaR](./var_comparison.png)
 
 # How to Run
 
